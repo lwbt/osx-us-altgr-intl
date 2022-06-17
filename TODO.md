@@ -1,0 +1,4 @@
+- README: describe GUI installation
+- README: improve terminal installation
+- provide `install.sh` and `uninstall.sh` scripts
+- FAQ: create a markdown table and re-order hyperlinks
