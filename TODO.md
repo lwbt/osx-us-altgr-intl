@@ -1,4 +1,5 @@
 - README: describe GUI installation
 - README: improve terminal installation
-- provide `install.sh` and `uninstall.sh` scripts
+- provide `install.sh` scripts
+  - should probably have a trap to clean up on error
 - FAQ: create a markdown table and re-order hyperlinks
